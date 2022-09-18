@@ -1,2 +1,4 @@
 2022-09-16T16:09:43Z	hello world
 2022-09-16T12:35:27-04:00	Time Test
+2022-09-18T02:39:03Z  (#qizalqq) Sorry, I stopped my yarnd running on GCP, so I used that account to do some tests of twt compatibility, because jdtron/twet that you list as compatible with twt hash Ext, was not fully (tweet doesn't produce hash, time was not UTC .... ), so I forked it to fix that
+2022-09-18T02:44:03Z  (#qizalqq) And doing some others tests as well.
